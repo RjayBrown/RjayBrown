@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Randall</h1>
-<h3 align="center">Software engineer with a passion for being creative with technology. I love solving problems! My goal is to build tools that help people navigate the rapidly evolving economic and technological landscape. I’m excited to continue learning and welcome any opportunities to build solutions and explore new ideas.</h3>
+<h3 align="center">Resourceful software engineer with a passion for learning and being creative with technology. I love solving problems! My goal is to build tools that help people navigate the rapidly evolving economic and technological landscape, so I'm currently focused on developing practical web applications and programs designed to support the next generation of professionals.</h3>
 
 <h3 align="center">View <a href="https://rjbrown.dev/">my portfolio</a> here</h3>
 
