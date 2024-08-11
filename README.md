@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Randall</h1>
-<h3 align="center">Passionate and resourceful software engineer specializing in full-stack web development. My long term goal is to create a suite of tools that help people navigate the rapidly evolving economic and technological landscape, featuring practical web applications and programs designed to support the next generation of professionals.</h3>
+<h3 align="center">Passionate and resourceful software engineer specializing in full-stack web development. My long term goal is to create a suite of tools featuring practical web applications and programs designed to support the next generation of professionals.</h3>
 
 <h3 align="center">View <a href="https://rjbrown.dev/">my portfolio</a> here</h3>
 
