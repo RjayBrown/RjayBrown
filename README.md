@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Randall</h1>
-<h3 align="center">Passionate and resourceful software engineer specializing in full-stack web development. I love music, solving problems, and anything that involves being creative! Currently building web applications and programs designed to support the next generation of professionals.</h3>
+<h3 align="center">Passionate and resourceful software engineer who loves solving problems, live music, and anything that involves being creative! Currently building web applications and programs designed to support the next generation of professionals.</h3>
 
 <h3 align="center">View <a href="https://rjbrown.dev/">my portfolio</a> here</h3>
 
