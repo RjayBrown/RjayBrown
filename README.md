@@ -9,9 +9,9 @@ Software Engineer
 
 Web Developer | Problem Solver
 
-Currently building web applications and educational
-resources designed to support the next generation
-of professionals.
+Currently building web applications and
+educational resources designed to support
+the next generation of professionals.
 
 🌴 ELE 🌴
 The marathon continues❕
