@@ -21,3 +21,5 @@ The marathon continues❕
 [![Music](https://img.shields.io/badge/%F0%9F%8E%A7%20FLOW%20STATE%20%20-%20%23151b23?style=for-the-badge)](https://open.spotify.com/playlist/4RE9EcyFTyDw8JmoIg7IzV?si=OxCs-gquRIiSDri234PYgA)
 [![Email](https://img.shields.io/badge/%F0%9F%93%A7%20SEND%20EMAIL%20%20-%20%23151b23?style=for-the-badge)](mailto:rjbrown.dev@outlook.com@email.com)
 
+</div>
+
